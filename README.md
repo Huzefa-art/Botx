@@ -52,12 +52,3 @@ These installation instructions assume that you have pip installed and added to 
    ```
 
 
-
-## Crew
-
-| Name            | Title                   | Email                            |
-| --------------- | ----------------------- | -------------------------------- |
-| Saif Ur Rehman  | Gen AI Engineer         | saif.khan@xloopdigital.com       |
-| Huzefa Anwer    | Gen AI Engineer         | huzefa.anver@xloopdigital.com    |
-| Javeria Lodhi   | Full Stack Developer    | javeria.lodhi@xloopdigital.com   |
-| Faizan Rafique  | Data Engineer           | faizan.rafique@xloopdigital.com  |
